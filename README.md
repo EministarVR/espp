@@ -32,32 +32,55 @@ Hier kannst du in einer eigenen Sprache schreiben, die **einzigartig und durchda
 
 ### **3. Dein erstes Programm**
 Sobald du deine Datei erstellt hast, öffne das Terminal und führe den Code aus:
+
 ```dist\terminal.exe test.espp```
+
 Und zack, dein Programm wird ausgeführt!
+
 ---
+
 ## Was ist gerade möglich?
+
 Derzeit kannst du mit Es++ einfache Programme wie die Ausgabe von Text erstellen. Zum Beispiel:
 
 ```ausgabe("Test")```
 
 Aber das ist nur der Anfang! In den nächsten Versionen wird es viel mehr Funktionen geben – von Variablen bis hin zu Benutzereingaben und Schleifen. Leichten Installationsdateien und einer IDE und vielem mehr! Sei gespannt!
+
 ---
+
 ## Zukunftsperspektiven
+
 **Wir haben BIG PLANS! 🎉**
 
 **Installer:** Bald kannst du Es++ mit einem einfachen Installer einrichten – kein langes Setup mehr, einfach starten und loslegen.
+
 **Erweiterte** Funktionen: Mehr als nur Textausgabe! Bereite dich auf Variablen, Funktionen und viel mehr vor.
+
 **Visuelles Update:** Ein richtig cooles Terminal, das nicht nur funktioniert, sondern auch gut aussieht!
+
 *Bleib dran, das Beste kommt noch. 🚀*
+
 ---
+
 ## Beitragen und Mitmachen
+
 Es gibt immer Platz für coole Ideen und Features! Wenn du also Lust hast, das Projekt zu erweitern, dann melde dich! Pull Requests sind jederzeit willkommen.
-Trete auch gerne userem [Discord Server](https://discord.gg/EW9f9qeubm)
+
+Trete auch gerne unserem [Discord Server](https://discord.gg/EW9f9qeubm).
+
 Mit Liebe entwickelt, von der Community für die Community! 💖
+
 ---
+
 ## Lizenzen und Credits
+
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – das bedeutet, du kannst es nach Herzenslust verwenden, ändern und weitergeben!
+
 ---
+
 ## Lasst uns das rocken!
-Es++ ist nicht nur ein Projekt – es ist eine Bewegung! 🔥 Wenn du diese Sprache genauso liebst wie wir, dann lass uns zusammen noch mehr damit anstellen. Vielleicht wirst du der nächste, der damit die Welt begeistert! bei!
+
+Es++ ist nicht nur ein Projekt – es ist eine Bewegung! 🔥 Wenn du diese Sprache genauso liebst wie wir, dann lass uns zusammen noch mehr damit anstellen. Vielleicht wirst du der nächste, der damit die Welt begeistert!
+
 *Mit Liebe entwickelt, von der Community für die Community! 💖*
