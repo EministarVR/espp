@@ -7,7 +7,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)  
 ![License](https://img.shields.io/badge/license-MIT-blue)  
-![Stars](https://img.shields.io/github/stars/eministarvr/espp-editor?style=social)
+![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
 
 ---
 
