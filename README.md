@@ -5,9 +5,7 @@
 **Eine deutsche Programmiersprache für Einsteiger**  
 *Futuristischer Online-Editor mit Live-Interpreter*
 
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
-![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
 
 ---
 
