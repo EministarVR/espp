@@ -1,1 +1,27 @@
+</> Was ist neu im Build 1.0.1 Alpha?
+</> - Besseres Terminal mit einer Startseite
+</> - Interpreter stark ausgebaut
+</> - Was kommt im neusten Build?
+</> - Interpreter weiter ausbauen für Schleifen, Eingaben und etc.
+</> - Danke, dass zu Es++ nutzt!
+
+
+</> Zwei simple Ausgaben!
 ausgabe("Hallo, Es++!")
+ausgabe("Das ist eine zweite Ausgabe!")
+
+
+
+</> Kleine mathematischen Funktionen, Differenz macht noch kleine Probleme :(
+summe(5, 10, 20)
+produkt(2, 3, 4)
+quotient(10, 2)
+sinus(30)
+cosinus(45)
+
+</> Es treten noch kleine Fehler auf
+wenn x > 10 dann ausgabe("x ist groß") sonst ausgabe("x ist klein")
+
+</> Strings und Variablen
+x = 5
+ausgabe(x)
