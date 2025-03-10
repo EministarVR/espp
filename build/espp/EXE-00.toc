@@ -92,7 +92,7 @@
  [],
  False,
  False,
- 1741519008,
+ 1741638071,
  [('run.exe',
    'C:\\Users\\benou\\OneDrive\\Desktop\\Es++\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],

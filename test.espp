@@ -1,27 +1,50 @@
-</> Was ist neu im Build 1.0.1 Alpha?
-</> - Besseres Terminal mit einer Startseite
-</> - Interpreter stark ausgebaut
-</> - Was kommt im neusten Build?
-</> - Interpreter weiter ausbauen für Schleifen, Eingaben und etc.
-</> - Danke, dass zu Es++ nutzt!
+</> Build 1.0.2 Alpha
+</> Was ist neu?
+</> - Einführung der Leerzeilen mit 'leer: line;' für Platzierung von Abständen im Code
+</> - Neue mathematische Funktionen: Wurzel, Potenz, Logarithmus
+</> - Verbesserte Schleifen: 'wiederhole' für wiederholte Ausführung
+</> - Erweiterte Bedingungsabfragen und Berechnungen
+</> - Variable Berechnungen und dynamische Eingabewerte
+</> 
+
+</> Codebeispiel 1: Einfache Berechnungen
+ausgabe("Berechnung von 3 + 5")
+a = 3 + 5
+ausgabe(a)  // Ausgabe: 8
+
+</> Codebeispiel 2: Verwendung von Wurzel und Potenz
+ausgabe("Wurzel von 16")
+wurzelErgebnis = wurzel(16)
+ausgabe(wurzelErgebnis)  // Ausgabe: 4.0
+
+ausgabe("Potenz von 2 hoch 3")
+potenzErgebnis = potenz(2, 3)
+ausgabe(potenzErgebnis)  // Ausgabe: 8.0
+
+</> Codebeispiel 3: Logarithmus Berechnung
+ausgabe("Logarithmus von 10")
+logErgebnis = log(10)
+ausgabe(logErgebnis)  // Ausgabe: 2.302585092994046
+
+</> Codebeispiel 4: Schleifen (wiederhole)
+ausgabe("Wiederhole 5 mal:")
+wiederhole 5 mal
+    ausgabe("Dies ist die Wiederholung.")
+    
+</> Codebeispiel 5: Bedingung und Variablen
+a = 10
+b = 5
+wenn a > b dann
+    ausgabe("a ist größer als b!")
+sonst
+    ausgabe("a ist nicht größer als b!")
+    
+</> Codebeispiel 6: Berechnungen mit Variablen
+ausgabe("Berechnung von a + b")
+summeErgebnis = summe(a, b)
+ausgabe(summeErgebnis)  // Ausgabe: 15
 
 
-</> Zwei simple Ausgaben!
-ausgabe("Hallo, Es++!")
-ausgabe("Das ist eine zweite Ausgabe!")
 
-
-
-</> Kleine mathematischen Funktionen, Differenz macht noch kleine Probleme :(
-summe(5, 10, 20)
-produkt(2, 3, 4)
-quotient(10, 2)
-sinus(30)
-cosinus(45)
-
-</> Es treten noch kleine Fehler auf
-wenn x > 10 dann ausgabe("x ist groß") sonst ausgabe("x ist klein")
-
-</> Strings und Variablen
-x = 5
-ausgabe(x)
+</> Danke, dass du Es++ nutzt! 
+</> Genauere Patchnotes findest du in der PATCHNOTES.md!
