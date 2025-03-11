@@ -82,3 +82,17 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – das bedeutet, du kannst e
 Es++ ist nicht nur ein Projekt – es ist eine Bewegung! 🔥 Wenn du diese Sprache genauso liebst wie wir, dann lass uns zusammen noch mehr damit anstellen. Vielleicht wirst du der nächste, der damit die Welt begeistert!
 
 *Mit Liebe entwickelt, von der Community für die Community! 💖*
+
+---  
+
+```
+ _______   _____ ______   ___  ________   ___  ________  _________  ________  ________  ___      ___ ________     
+|\  ___ \ |\   _ \  _   \|\  \|\   ___  \|\  \|\   ____\|\___   ___\\   __  \|\   __  \|\  \    /  /|\   __  \    
+\ \   __/|\ \  \\\__\ \  \ \  \ \  \\ \  \ \  \ \  \___|\|___ \  \_\ \  \|\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+ \ \  \_|/_\ \  \\|__| \  \ \  \ \  \\ \  \ \  \ \_____  \   \ \  \ \ \   __  \ \   _  _\ \  \/  / / \ \   _  _\  
+  \ \  \_|\ \ \  \    \ \  \ \  \ \  \\ \  \ \  \|____|\  \   \ \  \ \ \  \ \  \ \  \\  \\ \    / /   \ \  \\  \| 
+   \ \_______\ \__\    \ \__\ \__\ \__\\ \__\ \__\____\_\  \   \ \__\ \ \__\ \__\ \__\\ _\\ \__/ /     \ \__\\ _\ 
+    \|_______|\|__|     \|__|\|__|\|__| \|__|\|__|\_________\   \|__|  \|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+                                                 \|_________|
+```                                                                                                                 
+                                                                                                                  
