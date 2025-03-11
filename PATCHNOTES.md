@@ -85,3 +85,19 @@ Verbesserte Codeausführung und Reduzierung von möglichen Abstürzen bei komple
 
 ## Hinweis:
 Die Version 1.0.2 Alpha enthält mehrere neue Funktionen, die die Lesbarkeit des Codes verbessern und erweiterte mathematische Berechnungen ermöglichen. Teste die neuen Features und gebe uns Feedback!
+
+
+--- 
+
+# Mit Liebe gemacht!
+
+```
+  ______           _       _     _          __      _______  
+ |  ____|         (_)     (_)   | |         \ \    / /  __ \ 
+ | |__   _ __ ___  _ _ __  _ ___| |_ __ _ _ _\ \  / /| |__) |
+ |  __| | '_ ` _ \| | '_ \| / __| __/ _` | '__\ \/ / |  _  / 
+ | |____| | | | | | | | | | \__ \ || (_| | |   \  /  | | \ \ 
+ |______|_| |_| |_|_|_| |_|_|___/\__\__,_|_|    \/   |_|  \_\
+                                                             
+                                                             
+```
