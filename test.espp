@@ -10,21 +10,21 @@
 </> Codebeispiel 1: Einfache Berechnungen
 ausgabe("Berechnung von 3 + 5")
 a = 3 + 5
-ausgabe(a)  // Ausgabe: 8
+ausgabe(a)  
 
 </> Codebeispiel 2: Verwendung von Wurzel und Potenz
 ausgabe("Wurzel von 16")
 wurzelErgebnis = wurzel(16)
-ausgabe(wurzelErgebnis)  // Ausgabe: 4.0
+ausgabe(wurzelErgebnis)  
 
 ausgabe("Potenz von 2 hoch 3")
 potenzErgebnis = potenz(2, 3)
-ausgabe(potenzErgebnis)  // Ausgabe: 8.0
+ausgabe(potenzErgebnis)  
 
 </> Codebeispiel 3: Logarithmus Berechnung
 ausgabe("Logarithmus von 10")
 logErgebnis = log(10)
-ausgabe(logErgebnis)  // Ausgabe: 2.302585092994046
+ausgabe(logErgebnis)  
 
 </> Codebeispiel 4: Schleifen (wiederhole)
 ausgabe("Wiederhole 5 mal:")
@@ -42,7 +42,7 @@ sonst
 </> Codebeispiel 6: Berechnungen mit Variablen
 ausgabe("Berechnung von a + b")
 summeErgebnis = summe(a, b)
-ausgabe(summeErgebnis)  // Ausgabe: 15
+ausgabe(summeErgebnis)  
 
 
 
