@@ -3,9 +3,9 @@
 <img src="logo.png" alt="Es++ Screenshot" width="150"/>
 
 **Eine deutsche Programmiersprache für Einsteiger**  
-*Futuristischer Online-Editor mit Live-Interpreter*
 
-![Version](https://img.shields.io/badge/version-1.0.1-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
+
+![Version](https://img.shields.io/badge/version-1.0.2-purple) ![License](https://img.shields.io/badge/license-MIT-purple) ![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
 
 ---
 
@@ -82,3 +82,18 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – das bedeutet, du kannst e
 Es++ ist nicht nur ein Projekt – es ist eine Bewegung! 🔥 Wenn du diese Sprache genauso liebst wie wir, dann lass uns zusammen noch mehr damit anstellen. Vielleicht wirst du der nächste, der damit die Welt begeistert!
 
 *Mit Liebe entwickelt, von der Community für die Community! 💖*
+
+--- 
+
+# Mit Liebe gemacht!
+
+```
+  ______           _       _     _          __      _______  
+ |  ____|         (_)     (_)   | |         \ \    / /  __ \ 
+ | |__   _ __ ___  _ _ __  _ ___| |_ __ _ _ _\ \  / /| |__) |
+ |  __| | '_ ` _ \| | '_ \| / __| __/ _` | '__\ \/ / |  _  / 
+ | |____| | | | | | | | | | \__ \ || (_| | |   \  /  | | \ \ 
+ |______|_| |_| |_|_|_| |_|_|___/\__\__,_|_|    \/   |_|  \_\
+                                                             
+                                                             
+```
