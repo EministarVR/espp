@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="Es++ Screenshot" width="150"/>
 
-**Eine deutsche Programmiersprache für Einsteiger**  
+**Eine deutsche Programmiersprache basierend auf Python für Einsteiger**  
 
 
 ![Version](https://img.shields.io/badge/version-1.0.2-purple) ![License](https://img.shields.io/badge/license-MIT-purple) ![Stars](https://img.shields.io/github/stars/eministarvr/espp?style=social)
@@ -20,6 +20,7 @@ Hier kannst du in einer eigenen Sprache schreiben, die **einzigartig und durchda
 ## **Wie du loslegst**
 
 ### **1. Voraussetzungen**
+- Python (Neuste Version)
 - Windows (für die Terminal-Anwendung, die in der Datei `dist\terminal.exe` enthalten ist)
 - Die **.espp**-Dateien (diese Dateien enthalten deinen Code und werden von Es++ ausgeführt)
 
